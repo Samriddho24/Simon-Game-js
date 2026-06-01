@@ -30,7 +30,7 @@ An interactive memory game inspired by the classic Simon Game, built using HTML,
 
 ## 📸 Preview
 
-![Simon Game Preview](preview.png)
+![Simon Game Preview](Screenshot1)
 
 ## 📂 Project Structure
 
