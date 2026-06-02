@@ -12,7 +12,7 @@ An interactive memory game inspired by the classic Simon Game, built using HTML,
 - Restart functionality
 - Responsive and interactive UI
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 - HTML5
 - CSS3
