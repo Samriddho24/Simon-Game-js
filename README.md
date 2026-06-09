@@ -21,7 +21,7 @@ An interactive memory game inspired by the classic Simon Game, built using HTML,
 
 ## 🎯 How to Play
 
-1. Press any key to start game.
+1. Press any key to start the game.
 2. Watch the sequence displayed by the game.
 3. Repeat the sequence by clicking the colored buttons.
 4. Each level adds a new color to the sequence.
